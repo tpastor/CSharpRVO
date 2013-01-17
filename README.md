@@ -1,7 +1,7 @@
 CSharpRVO
 =========
 
-# RVOs Library Wrapper for C#
+# RVOs Library Wrapper for C`#`
 
 This project just provide two wrapper (using Managed C++) for RVO3D and RVO2. (some use case demos also added)
 
